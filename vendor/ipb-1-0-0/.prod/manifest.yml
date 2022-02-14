@@ -1,0 +1,14 @@
+version: 1.0.0
+rootdir: /home/dan/demo/src/soc2/vendor/ipb-1-0-0
+product:
+    id: 4dc0633b-fc6b-4dcf-89ab-5b4748dd584a
+    name: ipB
+    revision: 1.0.0
+    company: silvaco
+    slug: ipb-1-0-0
+    categoryid: 1
+    description: ipB product from Design Associates, inc.
+    ispublic: false
+    producttype: soft ip
+    productstate: in_development
+    productsize: 710949
