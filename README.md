@@ -1,4 +1,4 @@
-# soc1
+# soc2
 
 miscellaneous Verilog sources collected for flow-testing purposes.   Please go to
 the original repositories here for anything useful:
