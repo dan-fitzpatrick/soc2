@@ -1,7 +1,5 @@
 # soc2
 
-this was updated to create a push event.
-
 miscellaneous Verilog sources collected for flow-testing purposes.   Please go to
 the original repositories here for anything useful:
 
