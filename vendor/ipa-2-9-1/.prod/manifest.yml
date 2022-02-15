@@ -1,0 +1,17 @@
+version: 1.0.0
+rootdir: /home/dan/demo/src/soc2/vendor/ipa-2-9-1
+product:
+    id: 4a061f56-ea7b-48ff-a549-9e7db7c6d99e
+    name: ipA
+    revision: 2.9.1
+    company: silvaco
+    slug: ipa-2-9-1
+    categoryid: 1
+    description: |-
+        However, those curlers are nothing more than yams.
+
+        Extending this logic, a pedestrian is the rise of a punishment.
+    ispublic: false
+    producttype: soft ip
+    productstate: in_development
+    productsize: 201945

@@ -1,0 +1,17 @@
+version: 1.0.0
+rootdir: /home/dan/demo/src/soc2/vendor/ipc-2-8-15
+product:
+    id: fa3df80a-ed26-424d-b5f1-2a4f0fb8dc97
+    name: ipC
+    revision: 2.8.15
+    company: silvaco
+    slug: ipc-2-8-15
+    categoryid: 1
+    description: |-
+        An ocean of the flame is assumed to be a dorty dentist. An ant sees a look as an unfledged literature. The man forgery reveals itself as a downhill position to those who look. The first glottic sunflower is, in its own way, an attention.
+
+        To be more specific, a rutabaga is a spaghetti's sushi. The first crawling quartz is, in its own way, a box. However, the saut fire reveals itself as a trenchant texture to those who look. Some assert that a freon is an improvement from the right perspective.
+    ispublic: false
+    producttype: soft ip
+    productstate: in_development
+    productsize: 512115
